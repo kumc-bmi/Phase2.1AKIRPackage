@@ -23,6 +23,8 @@ Imports:
     survival (>= 2.4-0),
     survminer (>= 0.4.3),
     tableone,
+	broom,
+	knitr,
     magrittr
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
